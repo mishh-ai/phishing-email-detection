@@ -1,0 +1,9 @@
+EmailText,Label
+"Congratulations! You have won a free iPhone. Click here to claim.",phishing
+"Your bank account has been suspended. Verify your details immediately.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",legitimate
+"Please find the attached project report.",legitimate
+"Update your password to avoid account closure.",phishing
+"Happy Birthday! Have a wonderful day.",legitimate
+"Claim your lottery prize now by clicking this link.",phishing
+"Your Amazon order has been shipped successfully.",legitimate
